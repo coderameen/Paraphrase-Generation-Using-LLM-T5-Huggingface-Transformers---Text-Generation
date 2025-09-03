@@ -1,1 +1,2 @@
-# Paraphrase-Generation-Using-LLM-T5-Huggingface-Transformers---Text-Generation
+Problem Statmeent:
+Paraphrase generation is a vital task in NLP, supporting applications like question answering, dialogue systems, and data augmentation. Traditional approaches often fail to preserve meaning or produce fluent variations of text. With Transformer-based models such as T5, this challenge can be reframed as a sequence-to-sequence problem to generate context-preserving, grammatically correct, and diverse paraphrases. The problem addressed in this work is how to effectively leverage T5 to build a robust paraphrase generation system for real-world NLP applications.
